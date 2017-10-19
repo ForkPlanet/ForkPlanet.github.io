@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Instagram
+  url: https://www.instagram.com/forkplanet
   excerpt:
-  image:
+  image: 
+
+- title: Gallery
+  url: /gallery/
+  excerpt: "Day-to-day gallery."
+  image: 

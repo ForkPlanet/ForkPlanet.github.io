@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "ForkPlanet"
+description: "Amateur Food and Wine Blogger. Costa Rica"
+logo:  ForkPlanet_120.jpg # 120x120 px default image used for Twitter summary card
+teaser: ForkPlanet_teaserS.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://ForkPlanet.github.io
 feed:
   path: atom.xml
 
@@ -25,8 +25,8 @@ gems:
 
 
 # Site owner
-owner:
-  name:
+owner: 
+  name: 
   email:
   twitter:
   google:
